@@ -78,3 +78,11 @@ print('Circumference:',circumference)
 radius=float(input('Enter Radius:'))
 _area=3.142*radius*radius
 print('Area:',_area)
+
+#13
+firstname=input('Enter first name:')
+lastname=input('Enter last name:')
+country=input('Enter country:')
+age=input('Enter age:')
+
+print(firstname,lastname,country,age)
